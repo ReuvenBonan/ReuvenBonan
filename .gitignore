@@ -1,0 +1,9 @@
+.DS_Store
+secrets.txt
+
+# To write comment
+
+# We need to write the exact name of the files (case sensitive)
+# Each file must be written on a separate line
+
+# *.txt - all the .txt files will be ignored
